@@ -22,7 +22,7 @@ Have you identified a universal tension not currently in the Spiral? We'd love t
 
 **Create an issue titled "Proposed Thread":**
 ```
-[Name]" and include:
+"[Name]" and include:
 
 ## Thread Name  
 [Proposed name for the thread]
@@ -57,20 +57,20 @@ Share how specific traditions engage with existing threads—not to claim owners
 **Format for tradition perspectives:**
 
 ```
-\#\# Tradition: \[Name\]  
-\#\# Thread: \[Which thread(s) this relates to\]
+## Tradition: [Name]  
+## Thread: [Which thread(s) this relates to]
 
-\#\#\# How This Tradition Engages the Tension  
-\[Specific practices, teachings, or perspectives\]
+### How This Tradition Engages the Tension  
+[Specific practices, teachings, or perspectives]
 
-\#\#\# Unique Insights  
-\[What this tradition offers that others might not see\]
+### Unique Insights  
+[What this tradition offers that others might not see]
 
-\#\#\# Common Ground  
-\[How this connects with other approaches\]
+### Common Ground  
+[How this connects with other approaches]
 
-\#\#\# Citations/Resources  
-\[Books, teachers, or sources for deeper exploration\]
+### Citations/Resources  
+[Books, teachers, or sources for deeper exploration]
 ```
 
 ### **3\. Practices and Exercises**
@@ -80,28 +80,28 @@ Contribute embodied practices that help individuals or communities engage with t
 **Practice submission format:**
 
 ```
-\#\# Practice Name  
-\[Clear, descriptive name\]
+## Practice Name  
+[Clear, descriptive name]
 
-\#\# Related Thread(s)  
-\[Which tension(s) this practice engages\]
+## Related Thread(s)  
+[Which tension(s) this practice engages]
 
-\#\# Context  
-\- Duration: \[How long it takes\]  
-\- Setting: \[Individual/pairs/group\]  
-\- Materials: \[What's needed\]
+## Context  
+- Duration: [How long it takes]  
+- Setting: [Individual/pairs/group]  
+- Materials: [What's needed]
 
-\#\# Instructions  
-\[Step-by-step guide\]
+## Instructions  
+[Step-by-step guide]
 
-\#\# Variations  
-\[Adaptations for different contexts\]
+## Variations  
+[Adaptations for different contexts]
 
-\#\# Facilitator Notes  
-\[Tips for holding space\]
+## Facilitator Notes  
+[Tips for holding space]
 
-\#\# Origin/Attribution  
-\[Where this practice comes from, if known\]
+## Origin/Attribution  
+[Where this practice comes from, if known]
 ```
 
 ### **4\. Community Applications**
@@ -111,23 +111,23 @@ Document how communities have used the Spiral of Becoming framework.
 **Case study format:**
 
 ```
-\#\# Community/Context  
-\[Type of community, size, context\]
+## Community/Context  
+[Type of community, size, context]
 
-\#\# Challenge/Opportunity  
-\[What brought you to use the framework\]
+## Challenge/Opportunity  
+[What brought you to use the framework]
 
-\#\# Application  
-\[How you implemented it\]
+## Application  
+[How you implemented it]
 
-\#\# What Emerged  
-\[Outcomes, insights, surprises\]
+## What Emerged  
+[Outcomes, insights, surprises]
 
-\#\# Learnings  
-\[What worked, what didn't, what evolved\]
+## Learnings  
+[What worked, what didn't, what evolved]
 
-\#\# Advice for Others  
-\[Recommendations for similar applications\]
+## Advice for Others  
+[Recommendations for similar applications]
 ```
 
 ### **5\. Theoretical Connections**
