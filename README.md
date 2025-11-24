@@ -25,6 +25,8 @@ The Spiral is a **framework for dialogue**.
 - Could Muslim practices of surrender and Stoic practices of agency illuminate CONSENT differently?
 - What emerges when trauma therapists and shamans discuss EMBODIMENT?
 
+**Question Guidelines:**
+
 1. **These are just glimpses of infinite possible conversations. What combinations intrigue you? What wisdom does your tradition or experience offer?**
 
 2. **Nobody owns any thread. Everyone might contribute to every thread. The examples above are glimpses, nt limits. What wisdom does your tradition or experience offer? What conversations do you imagine?**
