@@ -10,3 +10,43 @@ body{font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvet
 .content{max-width:780px; margin:2rem auto; padding:0 1rem}
 section{margin-bottom:1.5rem}
 footer{margin-top:2rem; padding-top:1rem; border-top:1px solid #e6e9f2; color:#6b7280}
+
+/* site-logo styling */
+.site-logo{
+  display: block;
+  margin: 0.75rem auto 0.5rem; /* space between tagline and content */
+  max-width: 220px;           /* cap the visual size on large screens */
+  width: 18vw;                /* responsive sizing relative to viewport */
+  min-width: 80px;            /* avoid becoming too small on tiny screens */
+  height: auto;
+  padding: 8px;               /* subtle padding so logo breathes against header */
+  background: #ffffff;        /* keeps logo readable on gradient background */
+  border-radius: 12px;        /* soft rounded corners */
+  box-shadow: 0 6px 18px rgba(16,24,40,0.08); /* gentle elevation */
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+/* Hover/focus micro-interaction for non-touch devices */
+@media (hover: hover) and (pointer: fine) {
+  .site-logo:hover,
+  .site-logo:focus {
+    transform: translateY(-3px) scale(1.02);
+    box-shadow: 0 10px 30px rgba(16,24,40,0.12);
+  }
+}
+
+/* Adjust sizing for small screens */
+@media (max-width: 520px) {
+  .site-logo{
+    max-width: 140px;
+    width: 28vw;
+    padding: 6px;
+  }
+}
+
+/* Slightly larger cap for very wide displays */
+@media (min-width: 1200px) {
+  .site-logo{
+    max-width: 260px;
+  }
+}
