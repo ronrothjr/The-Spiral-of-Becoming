@@ -1,7 +1,18 @@
 # The Spiral of Becoming
 "The Spiral of Becoming doesn't provide answers. It identifies universal tensions that every human and every tradition must navigate. We're not here to tell you how to resolve these tensions but to create space where we can share our different approaches and learn from each other's wisdom."
 
-# **The Current Spiral of Becoming**
+## **Contributing**
+
+The Spiral of Becoming is a living framework, designed to evolve through practice and collective wisdom. We invite contributions that:
+
+* Identify new universal tensions/threads
+* Share how different traditions engage these questions
+* Offer practices for embodying these tensions
+* Document applications in communities
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+# **The Current Threads of The Spiral of Becoming**
 
 ### **1\. THE PRIMACY OF PRESENCE**
 
@@ -411,17 +422,6 @@ This is true whether you explain it through quantum physics, divine action, evol
 ---
 
 *"We are not nouns but verbs. Not things but processes. Not beings but becomings. And in this continuous creation, we find both freedom and connection, both continuity and novelty, both tension and transformation."*
-
-## **Contributing**
-
-The Spiral of Becoming is a living framework, designed to evolve through practice and collective wisdom. We invite contributions that:
-
-* Identify new universal tensions/threads
-* Share how different traditions engage these questions
-* Offer practices for embodying these tensions
-* Document applications in communities
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## **License**
 
