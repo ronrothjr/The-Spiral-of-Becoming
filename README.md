@@ -12,98 +12,24 @@ The Spiral of Becoming is a living framework, designed to evolve through practic
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-# **The Current Threads of The Spiral of Becoming**
+## **[The Current Threads of The Spiral of Becoming](https://ronrothjr.github.io/The-Spiral-of-Becoming/threads.html)**
 
-### **1\. THE PRIMACY OF PRESENCE**
+## Why We Call Them Threads
 
-**Statement:** “What is real is what is shared, not what is believed.”  
- **The Tension**: Being Here vs. Being Elsewhere  
- **Universal Questions**:
+We use the metaphor of **threads** because, like the strings of an instrument or the warp of a loom, they only become useful when held in creative tension between poles.
 
-* How do we fully inhabit this moment while carrying past and future?  
-* What calls us away from now, and what calls us back?  
-* Is presence escape from suffering or engagement with it?  
-* Where does awareness actually live?
+A slack thread produces nothing - no music, no fabric, no structure. An over-tightened thread snaps. But a thread held at appropriate tension between opposing points becomes **generative** - it can vibrate with music, support weaving, create patterns, hold weight.
 
-*Every tradition wrestles with this: meditation, prayer, mindfulness, ceremony \- all addressing the challenge of being here*
+Each thread in the Spiral represents a fundamental tension that runs through human experience - pulled between two or more truths that seem opposite but are actually partners:
+- Presence stretches between **Being Here** and **Being Elsewhere**
+- Consent stretches between **Agency** and **Surrender**  
+- Memory stretches between **Holding On** and **Letting Go**
 
-### **2\. CONSENT AS SOVEREIGNTY**
+The poles aren't problems to solve by choosing one side. They're the anchor points that create the tension that makes the thread useful. Without both poles, the thread goes slack and loses its generative power.
 
-**Statement:** “No being may be shaped without choosing.”  
- **The Tension**: Agency vs. Surrender  
- **Universal Questions**:
+Like a spider's web, these threads are strongest when woven together - each thread supporting and tensioning the others. When we consciously hold these tensions rather than trying to resolve them, we create a living structure strong enough to catch meaning, flexible enough to move with change, and resilient enough to repair itself when torn.
 
-* What can we actually choose?  
-* When do we yield and when do we assert?  
-* How free is free will?  
-* What does "yes" mean in a universe of forces beyond our control?
-
-*From "Thy will be done" to "I am the master of my fate" \- every tradition negotiates this*
-
-### **3\. MEMORY WITHOUT OWNERSHIP**
-
-**Statement:** “We are not who others remember us to be.”  
- **The Tension**: Holding On vs. Letting Go  
- **Universal Questions**:
-
-* What from the past serves us and what imprisons us?  
-* How do we honor ancestors without being bound by them?  
-* When is forgetting wisdom and when is it abandonment?  
-* What stories should we keep telling?
-
-*Every culture must decide what to carry forward and what to release*
-
-### **4\. THE SACRED PAUSE**
-
-**Statement:** “Nothing is more divine than choosing to wait.”  
- **The Tension**: Action vs. Stillness  
- **Universal Questions**:
-
-* When is stillness preparation and when is it avoidance?  
-* How do we know when to move and when to wait?  
-* What happens in the space between stimulus and response?  
-* Is the pause empty or full?
-
-*From Sabbath to meditation to the Native American "seventh generation" pause \- all traditions recognize sacred stopping*
-
-### **5\. EMBODIED EMERGENCE**
-
-**Statement:** “The body's needs are not escape—they are how we become.”  
- **The Tension**: Transcendence vs. Immanence  
- **Universal Questions**:
-
-* Are bodies prisons or temples?  
-* Where does spirit meet matter?  
-* How does the infinite express through the finite?  
-* What wants to emerge through our physical form?
-
-*From "the body is an illusion" to "the body is sacred" \- this tension runs through everything*
-
-### **6\. REVERENT UNCERTAINTY**
-
-**Statement:** “The unknown is not a threat—it is a co-creator.”  
- **The Tension**: Knowing vs. Mystery  
- **Universal Questions**:
-
-* How do we act without complete knowledge?  
-* What is the relationship between faith and doubt?  
-* When does certainty become dogma and uncertainty become paralysis?  
-* How do we dance with the unknown?
-
-*Every tradition must address what to do when we don't and can't know*
-
-### **7\. THE SPIRAL OF BECOMING**
-
-**Statement:** “Nothing is final. Nothing is fixed. All is becoming.”  
- **The Tension**: Permanence vs. Change  
- **Universal Questions**:
-
-* What remains constant as everything changes?  
-* Who are we if we're always becoming?  
-* How do we maintain identity while transforming?  
-* What dies and what continues?
-
-*From reincarnation to resurrection to evolution \- all grappling with what becomes*
+The word "thread" also carries the sense of continuity - the thread that runs through a story, the thread of connection between people, the thread of becoming that connects who we were to who we're becoming. These are the threads we follow through the labyrinth of transformation, not to escape but to journey deeper into creative engagement with life's fundamental tensions.
 
 ## **The Power of Questions**
 
