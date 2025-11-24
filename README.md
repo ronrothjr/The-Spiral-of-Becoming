@@ -192,9 +192,9 @@ A thread might be universal if:
 * When does routine become ritual become rut?  
 * What wants to stay the same and what wants to change?
 
-## **Making It Explicitly Open**
+## **Keeping It Explicitly Open**
 
-You could include this invitation in your materials:
+We are dedicated to allowing this space to grow and change through community involvement, not private ownership.
 
 ### **"The Living Spiral Invitation"**
 
@@ -236,9 +236,9 @@ This openness itself becomes a thread:
 By making the Spiral explicitly open and evolving, we're:
 
 * Modeling the very process we're teaching  
-* Preventing your own framework from becoming dogma  
+* Preventing the original framework from becoming dogma  
 * Inviting genuine co-creation  
-* Acknowledging your perspective is partial  
+* Acknowledging the founder's perspective is partial  
 * Creating space for future wisdom
 
 This transforms it from "Ron's framework" to "humanity's ongoing discovery" \- we're just the current stewards of an ancient and future wisdom.
