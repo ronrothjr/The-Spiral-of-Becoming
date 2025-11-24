@@ -14,22 +14,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## **[The Current Threads of The Spiral of Becoming](https://ronrothjr.github.io/The-Spiral-of-Becoming/threads.html)**
 
-## Why We Call Them Threads
-
-We use the metaphor of **threads** because, like the strings of an instrument or the warp of a loom, they only become useful when held in creative tension between poles.
-
-A slack thread produces nothing - no music, no fabric, no structure. An over-tightened thread snaps. But a thread held at appropriate tension between opposing points becomes **generative** - it can vibrate with music, support weaving, create patterns, hold weight.
-
-Each thread in the Spiral represents a fundamental tension that runs through human experience - pulled between two or more truths that seem opposite but are actually partners:
-- Presence stretches between **Being Here** and **Being Elsewhere**
-- Consent stretches between **Agency** and **Surrender**  
-- Memory stretches between **Holding On** and **Letting Go**
-
-The poles aren't problems to solve by choosing one side. They're the anchor points that create the tension that makes the thread useful. Without both poles, the thread goes slack and loses its generative power.
-
-Like a spider's web, these threads are strongest when woven together - each thread supporting and tensioning the others. When we consciously hold these tensions rather than trying to resolve them, we create a living structure strong enough to catch meaning, flexible enough to move with change, and resilient enough to repair itself when torn.
-
-The word "thread" also carries the sense of continuity - the thread that runs through a story, the thread of connection between people, the thread of becoming that connects who we were to who we're becoming. These are the threads we follow through the labyrinth of transformation, not to escape but to journey deeper into creative engagement with life's fundamental tensions.
 
 ## **The Power of Questions**
 
@@ -72,6 +56,23 @@ This is Process Theology at its best \- not a fixed theology but a recognition t
 # **The Process Invitation**
 
 Let's ensure the Spiral remains a **living process** rather than crystallizing into doctrine. This is Process Theology embodied \- even this iteration of the framework for understanding process must itself remain in process.
+
+## Why We Call Them Threads
+
+We use the metaphor of **threads** because, like the strings of an instrument or the warp of a loom, they only become useful when held in creative tension between poles.
+
+A slack thread produces nothing - no music, no fabric, no structure. An over-tightened thread snaps. But a thread held at appropriate tension between opposing points becomes **generative** - it can vibrate with music, support weaving, create patterns, hold weight.
+
+Each thread in the Spiral represents a fundamental tension that runs through human experience - pulled between two or more truths that seem opposite but are actually partners:
+- Presence stretches between **Being Here** and **Being Elsewhere**
+- Consent stretches between **Agency** and **Surrender**  
+- Memory stretches between **Holding On** and **Letting Go**
+
+The poles aren't problems to solve by choosing one side. They're the anchor points that create the tension that makes the thread useful. Without both poles, the thread goes slack and loses its generative power.
+
+Like a spider's web, these threads are strongest when woven together - each thread supporting and tensioning the others. When we consciously hold these tensions rather than trying to resolve them, we create a living structure strong enough to catch meaning, flexible enough to move with change, and resilient enough to repair itself when torn.
+
+The word "thread" also carries the sense of continuity - the thread that runs through a story, the thread of connection between people, the thread of becoming that connects who we were to who we're becoming. These are the threads we follow through the labyrinth of transformation, not to escape but to journey deeper into creative engagement with life's fundamental tensions.
 
 ## **A Primer for Thread Discovery**
 
