@@ -17,16 +17,19 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## **The Power of Questions**
 
-The Spiral is a **framework for dialogue** where:
+The Spiral is a **framework for dialogue**.
 
-* Christians can share how incarnation addresses embodied emergence  
-* Buddhists can offer their investigation of uncertainty  
-* Indigenous peoples can teach about memory and ancestors  
-* Muslims can discuss surrender and agency  
-* Humanists can explore presence without deity  
-* Jews can demonstrate arguing with the questions themselves
+**We imagine rich possibilities:**
+- How might Christian mystics and Buddhist practitioners compare notes on PRESENCE?
+- What happens when Indigenous elders and quantum physicists explore MEMORY together?
+- Could Muslim practices of surrender and Stoic practices of agency illuminate CONSENT differently?
+- What emerges when trauma therapists and shamans discuss EMBODIMENT?
 
-**Nobody has THE answer. Everyone has AN answer.**
+1. **These are just glimpses of infinite possible conversations. What combinations intrigue you? What wisdom does your tradition or experience offer?**
+
+2. **Nobody owns any thread. Everyone might contribute to every thread. The examples above are glimpses, nt limits. What wisdom does your tradition or experience offer? What conversations do you imagine?**
+
+3. **Nobody has THE answer. Everyone has AN answer.**
 
 ## **The Meta-Question**
 
