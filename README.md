@@ -421,7 +421,7 @@ The Spiral of Becoming is a living framework, designed to evolve through practic
 * Offer practices for embodying these tensions
 * Document applications in communities
 
-See CONTRIBUTING.md for guidelines.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## **License**
 
