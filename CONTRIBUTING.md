@@ -1,10 +1,10 @@
-# **Contributing to The Spiral of Becoming**
+# **Contributing to The Threads of Becoming**
 
-Thank you for your interest in contributing to The Spiral of Becoming\! This is a living framework that grows through collective wisdom and practice. Your insights, questions, and experiences are valuable additions to this ongoing exploration.
+Thank you for your interest in contributing to The Threads of Becoming\! This is a living framework that grows through collective wisdom and practice. Your insights, questions, and experiences are valuable additions to this ongoing exploration.
 
 ## **Philosophy of Contribution**
 
-The Spiral of Becoming is not owned by any individual or tradition—it belongs to everyone who engages with it and no one who would possess it. We welcome contributions that:
+The Threads of Becoming is not owned by any individual or tradition—it belongs to everyone who engages with it and no one who would possess it. We welcome contributions that:
 
 * Honor the framework as a living process rather than fixed doctrine  
 * Respect diverse traditions without appropriating or reducing them  
@@ -16,7 +16,7 @@ The Spiral of Becoming is not owned by any individual or tradition—it belongs 
 
 ### **1\. New Threads/Tensions**
 
-Have you identified a universal tension not currently in the Spiral? We'd love to explore it with you.
+Have you identified a universal tension not currently in the Threads? We'd love to explore it with you.
 
 **How to propose a new thread:**
 
@@ -106,7 +106,7 @@ Contribute embodied practices that help individuals or communities engage with t
 
 ### **4\. Community Applications**
 
-Document how communities have used the Spiral of Becoming framework.
+Document how communities have used the Threads of Becoming framework.
 
 **Case study format:**
 
@@ -132,7 +132,7 @@ Document how communities have used the Spiral of Becoming framework.
 
 ### **5\. Theoretical Connections**
 
-Link the Spiral to other frameworks, philosophies, or emerging research.
+Link the Threads to other frameworks, philosophies, or emerging research.
 
 ### **6\. Translations**
 
@@ -170,7 +170,7 @@ When contributing, practice holding tensions:
 ### **For Non-Technical Contributors**
 
 1. **Open an Issue**: Use our issue templates to propose contributions  
-2. **Email**: Send contributions to \[email\] with "Spiral Contribution" in subject  
+2. **Email**: Send contributions to \[email\] with "Threads Contribution" in subject  
 3. **Discussion**: Start a conversation in the Discussions tab
 
 ### **For Technical Contributors**
@@ -199,7 +199,7 @@ Reviews are not about gatekeeping but about collective discernment. Feedback wil
 
 ## **Versioning**
 
-The Spiral uses semantic versioning:
+The Threads use semantic versioning:
 
 * **Major versions** (1.0, 2.0): Significant evolution of the framework  
 * **Minor versions** (1.1, 1.2): New threads or substantial additions  
@@ -227,7 +227,7 @@ All contributors will be acknowledged in:
 
 If you're unsure about a contribution, open an issue with the "Question" label. We'd rather explore together than have you hesitate to contribute.
 
-Remember: The Spiral of Becoming is itself becoming. Your contribution, however small, is part of its evolution. We're not looking for perfection but for authentic engagement with these universal tensions.
+Remember: The That's of Becoming is itself becoming. Your contribution, however small, is part of its evolution. We're not looking for perfection but for authentic engagement with these universal tensions.
 
 ## **License Note**
 
@@ -235,5 +235,5 @@ By contributing, you agree that your contributions will be licensed under the sa
 
 ---
 
-*"We are not building a monument but tending a garden. Every contribution—whether seed, water, or sunlight—helps the Spiral grow."*
+*"We are not building a monument but tending a garden. Every contribution—whether seed, water, or sunlight—helps the Threads grow."*
          
