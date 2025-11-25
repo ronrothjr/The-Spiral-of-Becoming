@@ -163,7 +163,7 @@ A thread might be universal if:
 * What prophecy does this moment demand?
 
 ### **RECIPROCITY**
-**Seed:** What's in an exchange?
+**Seed:** "What's in an exchange?"
 
 **Tension:** _Giving vs. Receiving_
 
@@ -173,7 +173,7 @@ A thread might be universal if:
 * What circulates through us rather than from us?
 
 ### **THRESHOLD**
-**Seed:** What makes us whole?
+**Seed:** "What makes us whole?"
 
 **Tension:** _Inside vs. Outside_, _Us vs. Them_
 
@@ -183,7 +183,7 @@ A thread might be universal if:
 * What guards the doorway and what crosses it?
 
 ### **RHYTHM**
-**Seed:** How do we live?
+**Seed:** "How do we live?"
 
 **Tension:** _Repetition vs. Variation_
 
