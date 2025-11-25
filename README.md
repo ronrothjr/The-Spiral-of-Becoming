@@ -1,5 +1,5 @@
-# The Spiral of Becoming v1.0.1
-"The Spiral of Becoming doesn't provide answers. It identifies universal tensions that every human and every tradition must navigate. We're not here to tell you how to resolve these tensions but to create space where we can share our different approaches and learn from each other's wisdom."
+# The Threads of Becoming v1.0.1
+"The Threads of Becoming doesn't provide answers. It identifies universal tensions that every human and every tradition must navigate. We're not here to tell you how to resolve these tensions but to create space where we can share our different approaches and learn from each other's wisdom."
 
 _Let's admit what it's NOT:_
 
@@ -13,11 +13,11 @@ It's a **practice framework for engaging creative tension.** _That's all. That's
 
 ---
 
-## **[The Current Threads of The Spiral of Becoming](https://ronrothjr.github.io/The-Spiral-of-Becoming/threads.html)**
+## **[The Current Threads of Becoming](https://ronrothjr.github.io/The-Threads-of-Becoming/threads.html)**
 
 ---
 
-## **[The Spiral 2.0?](spiral-2.0.md)**
+## **[The Threads 2.0?](threads-2.0.md)**
 
 ---
 
@@ -31,7 +31,7 @@ It's a **practice framework for engaging creative tension.** _That's all. That's
 
 ## **MISSION:**
 
-The mission of The Spiral of Becoming (TSOB) open-source project is to function as a **living framework for engaging creative tension** that evolves through **collective wisdom and continuous practice**.
+The mission of The Threads of Becoming (TSOB) open-source project is to function as a **living framework for engaging creative tension** that evolves through **collective wisdom and continuous practice**.
 
 The project aims to serve as a **practice framework** that provides common ground for diverse theological and philosophical viewpoints, rather than functioning as a complete or fixed theological system.
 
@@ -46,7 +46,7 @@ The project aims to serve as a **practice framework** that provides common groun
 
 The underlying philosophy is that the framework succeeds not by being complete, but by being **generatively incomplete**. This openness transforms the project from an individual creation to **"humanity's ongoing discovery"**.
 
-The project is continually refined by its own struggles with tensions (such as Universal $\leftrightarrow$ Particular and Simple $\leftrightarrow$ Complex), demonstrating the very process it seeks to teach: **The Spiral of Becoming is itself becoming**.
+The project is continually refined by its own struggles with tensions (such as Universal $\leftrightarrow$ Particular and Simple $\leftrightarrow$ Complex), demonstrating the very process it seeks to teach: **The Threads of Becoming is itself becoming**.
 
 As an open-source project, its ultimate success is measured not by the absence of conflict or adherence to doctrine, but by whether it creates **more possibility than it closes**.
 
@@ -54,7 +54,7 @@ As an open-source project, its ultimate success is measured not by the absence o
 
 ## **Contributing**
 
-The Spiral of Becoming is a living framework, designed to evolve through practice and collective wisdom. We invite contributions that:
+The Threads of Becoming is a living framework, designed to evolve through practice and collective wisdom. We invite contributions that:
 
 * Identify new universal tensions/threads
 * Share how different traditions engage these questions
@@ -63,9 +63,9 @@ The Spiral of Becoming is a living framework, designed to evolve through practic
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-## **What Shape is the Spiral?**
+## **What Shape are the Threads?**
 
-The Spiral of Becoming isn't locked into any single shape or metaphor. Like water taking the form of its container while maintaining its essential nature, these universal tensions can be understood through whatever geometry serves your purpose, tradition, or learning style. The framework remains consistent whether you visualize it as spiral, web, wheel, or any other pattern that helps you engage. Choose the metaphor that makes the tensions come alive for you:
+The Threads of Becoming isn't locked into any single shape or metaphor. Like water taking the form of its container while maintaining its essential nature, these universal tensions can be understood through whatever geometry serves your purpose, tradition, or learning style. The framework remains consistent whether you visualize it as spiral, web, wheel, or any other pattern that helps you engage. Choose the metaphor that makes the tensions come alive for you:
 
 - **Path/Journey** - Linear progress through the threads
 - **Circle/Wheel** - Continuous cycle without beginning or end
@@ -88,11 +88,11 @@ We are dedicated to allowing this space to grow and change through community inv
 
 # **The Process Invitation**
 
-Let's ensure the Spiral remains a **living process** rather than crystallizing into doctrine. This is Becoming embodied \- even this iteration of the framework for understanding process must itself remain in process.
+Let's ensure the Threads remain a **living process** rather than crystallizing into doctrine. This is Becoming embodied \- even this iteration of the framework for understanding process must itself remain in process.
 
 ## **The Power of Questions**
 
-The Spiral is a **framework for dialogue**.
+The Threads is a **framework for dialogue**.
 
 **We imagine rich possibilities:**
 - How might Christian mystics and Buddhist practitioners compare notes on PRESENCE?
@@ -129,7 +129,7 @@ This is radically inclusive. It makes space for:
 
 ## **The Beautiful Paradox**
 
-By offering questions instead of answers, the Spiral becomes MORE universal, not less. Everyone has to grapple with these tensions. No tradition has solved them completely. We're all still learning.
+By offering questions instead of answers, the Threads become MORE universal, not less. Everyone has to grapple with these tensions. No tradition has solved them completely. We're all still learning.
 
 This is Becoming at its best \- not a fixed theology but a recognition that we're all responding to the same cosmic questions from our unique positions in the creative advance.
 
@@ -139,7 +139,7 @@ We use the metaphor of **threads** because, like the strings of an instrument or
 
 A slack thread produces nothing - no music, no fabric, no structure. An over-tightened thread snaps. But a thread held at appropriate tension between opposing points becomes **generative** - it can vibrate with music, support weaving, create patterns, hold weight.
 
-Each thread in the Spiral represents a fundamental tension that runs through human experience - pulled between two or more truths that seem opposite but are actually partners:
+Each thread represents a fundamental tension that runs through human experience - pulled between two or more truths that seem opposite but are actually partners:
 - Presence stretches between **Being Here** and **Being Elsewhere**
 - Consent stretches between **Agency** and **Surrender**  
 - Memory stretches between **Holding On** and **Letting Go**
@@ -150,9 +150,9 @@ Like a spider's web, these threads are strongest when woven together - each thre
 
 The word "thread" also carries the sense of continuity - the thread that runs through a story, the thread of connection between people, the thread of becoming that connects who we were to who we're becoming. These are the threads we follow through the labyrinth of transformation, not to escape but to journey deeper into creative engagement with life's fundamental tensions.
 
-### **"The Living Spiral Invitation"**
+### **"The Living Invitation"**
 
-*The current threads we've identified are not THE threads but OUR threads \- the ones we've discovered so far in our community's becoming. The Spiral itself is in process, always ready to receive new wisdom.*
+*The current threads we've identified are not THE threads but OUR threads \- the ones we've discovered so far in our community's becoming. The Threads of Becoming itself is in process, always ready to receive new wisdom.*
 
 *We invite you to:*
 
@@ -160,17 +160,17 @@ The word "thread" also carries the sense of continuity - the thread that runs th
 * *Share threads from your tradition we haven't seen*  
 * *Weave new threads as our community discovers them*  
 * *Challenge threads that no longer serve*  
-* *Let the Spiral itself spiral into new forms*
+* *Let the Threads itself thread into new forms*
 
-*This is not THE Spiral or MY Spiral \- it's a living spiral that belongs to everyone who engages it and no one who would possess it.*
+*This is not THE Threads or MY Threads \- it's living Threads that belong to everyone who engages them and no one who would possess them.*
 
 ## **The Version Control Model**
 
 Like open-source software:
 
-* **Spiral 1.0**: The original seven threads  
-* **Spiral 1.1**: Community adds Reciprocity thread  
-* **Spiral 2.0**: Major revision based on collective learning  
+* **Threads 1.0**: The original seven threads  
+* **Threads 1.1**: Community adds Reciprocity thread  
+* **Threads 2.0**: Major revision based on collective learning  
 * **Personal Forks**: Individuals create their own versions  
 * **Merge Requests**: New insights integrated back into community version
 
@@ -187,7 +187,7 @@ This openness itself becomes a thread:
 
 ## **The Profound Implication**
 
-By making the Spiral explicitly open and evolving, we're:
+By making the Threads explicitly open and evolving, we're:
 
 * Modeling the very process we're teaching  
 * Preventing the original framework from becoming dogma  
@@ -199,7 +199,7 @@ This transforms it from "Ron's framework" to "humanity's ongoing discovery" \- w
 
 ## **The Beautiful Recursion**
 
-The Spiral of Becoming is itself becoming. It demonstrates its own teaching \- that everything is in process, nothing is final, and creative tension generates new possibilities.
+The Threads of Becoming is itself becoming. It demonstrates its own teaching \- that everything is in process, nothing is final, and creative tension generates new possibilities.
 
 This openness doesn't weaken the framework \- it's what makes it trustworthy. People can engage knowing they're not being recruited into a fixed system but invited into a living practice.
 
