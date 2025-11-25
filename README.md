@@ -9,7 +9,7 @@ _Let's admit what it's NOT:_
 * Not immune to misuse
 * Not finished evolving
 
-It's a **practice framework for engaging creative tension.* _That's all. That's enough._
+It's a **practice framework for engaging creative tension.** _That's all. That's enough._
 
 ## **[The Current Threads of The Spiral of Becoming](https://ronrothjr.github.io/The-Spiral-of-Becoming/threads.html)**
 
