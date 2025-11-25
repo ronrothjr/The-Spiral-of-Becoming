@@ -21,6 +21,14 @@ It's a **practice framework for engaging creative tension.** _That's all. That's
 
 ---
 
+## [A Primer for Thread Discovery](thread-discovery.md)
+
+---
+
+## **[Process Thought: A Universal Primer](process-thought.md)**
+
+---
+
 ## **Contributing**
 
 The Spiral of Becoming is a living framework, designed to evolve through practice and collective wisdom. We invite contributions that:
@@ -98,10 +106,6 @@ Let's ensure the Spiral remains a **living process** rather than crystallizing i
 
 ---
 
-## [A Primer for Thread Discovery](thread-discovery.md)
-
----
-
 ## Why We Call Them Threads
 
 We use the metaphor of **threads** because, like the strings of an instrument or the warp of a loom, they only become useful when held in creative tension between poles.
@@ -175,10 +179,6 @@ This transforms it from "Ron's framework" to "humanity's ongoing discovery" \- w
 The Spiral of Becoming is itself becoming. It demonstrates its own teaching \- that everything is in process, nothing is final, and creative tension generates new possibilities.
 
 This openness doesn't weaken the framework \- it's what makes it trustworthy. People can engage knowing they're not being recruited into a fixed system but invited into a living practice.
-
----
-
-## **[Process Thought: A Universal Primer](process-thought.md)**
 
 ---
 
