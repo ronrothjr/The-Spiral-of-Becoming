@@ -1,5 +1,5 @@
 # The Threads of Becoming v1.0.1
-"The Threads of Becoming doesn't provide answers. It identifies universal tensions that every human and every tradition must navigate. We're not here to tell you how to resolve these tensions but to create space where we can share our different approaches and learn from each other's wisdom."
+"The Threads of Becoming don't provide answers. They identify universal tensions that every human and every tradition must navigate. We're not here to tell you how to resolve these tensions but to create space where we can share our different approaches and learn from each other's wisdom."
 
 _Let's admit what it's NOT:_
 
