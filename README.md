@@ -121,26 +121,46 @@ A thread might be universal if:
 
 ## **Examples of Potential Additional Threads**
 
-**RECIPROCITY** *The Tension: Giving vs. Receiving*
+### **POWER**
+**Seed:** "Who shapes reality?"
+**Tension:** _Agency vs. Structure_
+**Questions:**
+* Who decides what's possible and what's not?
+* When is power generative and when is it oppressive?
+* How do we redistribute power without reproducing domination?
+* What's the relationship between personal and systemic power?
+* When do we resist and when do we build alternatives?
 
-* How do we maintain balance in exchange?  
+### **WITNESS**
+**Seed:** "What must be named?"
+**Tension:** _Comfort vs. Truth_
+**Questions:**
+* When do we speak and when do we listen?
+* What requires denunciation and what requires annunciation?
+* Who are we called to comfort and who to challenge?
+* How do we witness suffering without consuming it?
+* What prophecy does this moment demand?
+
+### **RECIPROCITY**
+**Seed:** What's in an exchange?
+**Tension:** _Giving vs. Receiving_
+**Questions:**
+* How do we maintain balance in exchange?
 * When is giving depleting and receiving greedy?  
 * What circulates through us rather than from us?
 
-**WITNESS** *The Tension: Participation vs. Observation*
-
-* When do we engage and when do we watch?  
-* How does observing change what we observe?  
-* What asks to be seen without interference?
-
-**THRESHOLD** *The Tension: Inside vs. Outside*
-
+### **THRESHOLD**
+**Seed:** What makes us whole?
+**Tension:** _Inside vs. Outside_, _Us vs. Them_
+**Questions:**
 * Where do boundaries serve and where do they separate?  
 * How do we honor containers while allowing flow?  
 * What guards the doorway and what crosses it?
 
-**RHYTHM** *The Tension: Repetition vs. Variation*
-
+### **RHYTHM**
+**Seed:** How do we live?
+**Tension:** _Repetition vs. Variation_
+**Questions:**
 * How do patterns both sustain and imprison?  
 * When does routine become ritual become rut?  
 * What wants to stay the same and what wants to change?
