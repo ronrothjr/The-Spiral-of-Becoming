@@ -65,7 +65,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## **What Shape are the Threads?**
 
-The Threads of Becoming isn't locked into any single shape or metaphor. Like water taking the form of its container while maintaining its essential nature, these universal tensions can be understood through whatever geometry serves your purpose, tradition, or learning style. The framework remains consistent whether you visualize it as spiral, web, wheel, or any other pattern that helps you engage. Choose the metaphor that makes the tensions come alive for you:
+The Threads of Becoming aren't locked into any single shape or metaphor. Like water taking the form of its container while maintaining its essential nature, these universal tensions can be understood through whatever geometry serves your purpose, tradition, or learning style. The framework remains consistent whether you visualize it as spiral, web, wheel, or any other pattern that helps you engage. Choose the metaphor that makes the tensions come alive for you:
 
 - **Path/Journey** - Linear progress through the threads
 - **Circle/Wheel** - Continuous cycle without beginning or end
