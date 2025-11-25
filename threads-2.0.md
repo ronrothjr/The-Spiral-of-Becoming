@@ -1,10 +1,10 @@
-# **The Spiral of Becoming 2.0?**
+# **The Threads of Becoming 2.0?**
 
-# **A Deep Critique of The Spiral of Becoming**
+# **A Deep Critique of The Threads of Becoming**
 
 ## **1\. The Humanist Challenge**
 
-**"Why do we need another metaphysical framework?"** Religious humanists spent decades freeing us from required theological structures. The Spiral, despite its openness, still imposes a PARTICULAR way of seeing reality \- through tensions, threads, and becoming. This could be seen as regression from the hard-won freedom to "believe what you want as long as you act ethically."
+**"Why do we need another metaphysical framework?"** Religious humanists spent decades freeing us from required theological structures. The Threads, despite its openness, still imposes a PARTICULAR way of seeing reality \- through tensions, threads, and becoming. This could be seen as regression from the hard-won freedom to "believe what you want as long as you act ethically."
 
 **The Process Theology grounding is problematic.** Most humanists reject Process Theology's quasi-theistic elements. Even if you say "God is optional," the entire framework emerges from Whiteheadian metaphysics that many find unnecessarily complex and ultimately unprovable. Why not just use psychological and sociological frameworks that don't require metaphysical commitments?
 
@@ -20,7 +20,7 @@
 
 **Where's the empirical basis?** You cite no psychological studies, neuroscience research, or sociological data. For humanists who ground their religion in reason and science, this feels like another "invented system" rather than evidence-based practice.
 
-> ### **Empirical Basis for The Spiral**
+> ### **Empirical Basis for The Threads**
 > 
 > The framework maps directly onto established research:
 > 
@@ -43,7 +43,7 @@
 
 From Black, Indigenous, and other liberation perspectives:
 
-**Where is POWER as a thread?** The Spiral names universal tensions but conspicuously absent is the tension between oppressor and oppressed, privileged and marginalized. This isn't universal in the same way as "presence" \- it's specifically about systemic injustice. By not naming it, the framework risks being another privileged person's luxury meditation.
+**Where is POWER as a thread?** The Threads name universal tensions but conspicuously absent is the tension between oppressor and oppressed, privileged and marginalized. This isn't universal in the same way as "presence" \- it's specifically about systemic injustice. By not naming it, the framework risks being another privileged person's luxury meditation.
 
 > **POWER** **Seed:** "Who shapes reality?"
 > 
@@ -63,7 +63,7 @@ From Black, Indigenous, and other liberation perspectives:
 
 **The framework feels individualistic.** Despite claims of community application, the threads focus on personal experience: "Do we choose?" "Who are we?" Where are the explicitly collective threads: "Who decides?" "Who benefits?" "Whose story gets told?"
 
-> ### **The Spiral 2.0 Architecture**
+> ### **The Threads 2.0 Architecture**
 > 
 > With these additions, The Spiral becomes:
 > 
@@ -130,7 +130,7 @@ From Black, Indigenous, and other liberation perspectives:
 > * How do we honor bodies that don't conform, can't produce, won't submit?  
 > This makes explicit: racism lives in threatened bodies, poverty lives in hungry bodies, patriarchy lives in controlled bodies. Liberation must also be embodied.
 
-**No liberation narrative.** The Spiral is cyclical, but liberation theology is directional \- from bondage to freedom, from crucifixion to resurrection. Where is hope for actual transformation of oppressive systems?
+**No liberation narrative.** The Spiral are cyclical, but liberation theology is directional \- from bondage to freedom, from crucifixion to resurrection. Where is hope for actual transformation of oppressive systems?
 
 > ### **BECOMING as Liberation Thread**
 > 
@@ -149,7 +149,7 @@ From Black, Indigenous, and other liberation perspectives:
 
 ## **4\. The Earth-Centered Critique**
 
-**Linear presentation of cyclical concept.** The Spiral is numbered 1-7, suggesting progression, when earth-centered practice knows cycles don't have beginning or end. Why not present as a web, wheel, or actual spiral?
+**Linear presentation of cyclical concept.** The Threads are numbered 1-7, suggesting progression, when earth-centered practice knows cycles don't have beginning or end. Why not present as a web, wheel, or actual spiral?
 
 > ### **Earth-Centered: Reimagining Presentation**
 > 
@@ -168,14 +168,14 @@ From Black, Indigenous, and other liberation perspectives:
 >     (West/Water/    (Below/Body)    (Above/Sky)
 >      Sunset)             |
 >                     BECOMING
->                 (The Spiral/Season Turn)
+>                 (The Threads/Season Turn)
 > ```
 > Or offer **multiple presentations**:
 > 
 > * Linear for those who need sequence  
 > * Circular for those who think in cycles  
 > * Web for those who see interconnection  
-> * Spiral for those who understand both return and progression
+> * Threads for those who understand both return and progression
 
 **Disembodied language.** Despite the "Embodiment" thread, the framework is heavily conceptual. Where are the practices connected to seasons, elements, directions, moon phases \- the actual embodied wisdom of earth-centered traditions?
 
@@ -215,7 +215,7 @@ From Black, Indigenous, and other liberation perspectives:
 
 ## **5\. The Buddhist Analysis**
 
-**Unnecessary complexity.** Buddhism offers simple, elegant frameworks: Four Noble Truths, Eightfold Path, Three Marks of Existence. The Spiral's seven threads with multiple tensions each feels like conceptual proliferation that meditation practice specifically works to cut through.
+**Unnecessary complexity.** Buddhism offers simple, elegant frameworks: Four Noble Truths, Eightfold Path, Three Marks of Existence. The seven threads with multiple tensions each feels like conceptual proliferation that meditation practice specifically works to cut through.
 
 > ### **Buddhist: Simplification and Compassion**
 > 
@@ -254,17 +254,17 @@ From Black, Indigenous, and other liberation perspectives:
 
 > ### **On Framework Fatigue**
 > 
-> Yes, UU congregations are overwhelmed. But The Spiral isn't ANOTHER framework \- it's a **meta-framework** for holding all the others. It answers: "How do we hold all these different approaches without choosing sides?"
+> Yes, our congregations are overwhelmed. But The Threads of Being isn't ANOTHER framework \- it's a **meta-framework** for holding all the others. It answers: "How do we hold all these different approaches without choosing sides?"
 > 
-> The Spiral could be the container for:
+> The Threads could be the container for:
 > 
 > * Cultural Values discussions (holding tension between values)  
 > * Small Group themes (each theme has tensions)  
 > * Justice work (power tensions)  
 > * Pastoral care (personal tensions)  
 >   **Framework Fatigue: The Integration Solution**  
->   Don't add The Spiral to existing frameworks \- **show how it holds them**:  
-> * **Small Group monthly themes**: Each theme contains tensions the Spiral names  
+>   Don't add The Threads to existing frameworks \- **show how it holds them**:  
+> * **Small Group monthly themes**: Each theme contains tensions the Threads name  
 >   * "Heritage" month \= MEMORY thread  
 >   * "Imagination" month \= UNCERTAINTY thread  
 > * **Cultural Values**: Each value exists in tension with others  
@@ -279,11 +279,11 @@ From Black, Indigenous, and other liberation perspectives:
 > Create **three levels of engagement**:
 > 
 > 1. **Basic** (no training needed): "Name a tension you're holding"  
-> 2. **Facilitated** (half-day training): Leading Spiral practices  
+> 2. **Facilitated** (half-day training): Leading Threads practices  
 > 3. **Advanced** (weekend intensive): Conflict transformation through Creative Tension  
 > But also: **Mistakes are data**. Document what happens when it's "misused" \- that's learning too. Build failure stories into the framework's evolution.
 
-**The founder problem.** Despite open-sourcing, this is still "Ron's framework" in people's minds. UU has painful history with charismatic individuals creating movements that later problematize. How do you prevent becoming another UU personality-driven program?
+**The founder problem.** Despite open-sourcing, this is still "Ron's framework" in people's minds. Religion has a painful history with charismatic individuals creating movements that later problematize. How do you prevent becoming another cult-of-personality-driven program?
 
 > **The Founder Problem: Planned Obsolescence**
 > 
@@ -339,18 +339,18 @@ From Black, Indigenous, and other liberation perspectives:
 > * **Zen koans**: Are they theology or psychology? Both/neither \- they're transformation technology  
 > * **Liberation theology**: Consciously blends psychological conscientization with theological reflection  
 > * **Indigenous practices**: Never separated healing mind from healing spirit  
->   The Spiral offers **phenomenology of transformation** \- describing what happens when humans engage creative tension, regardless of whether you explain it through:  
+>   The Threads offer **phenomenology of transformation** \- describing what happens when humans engage creative tension, regardless of whether you explain it through:  
 > * Divine action (theological)  
 > * Neural rewiring (psychological)  
 > * Systems dynamics (sociological)  
 > * All of the above (integral)  
-> **The solution**: Be explicit about this integration. "The Spiral describes patterns that appear whether you interpret them spiritually, psychologically, or sociologically. Use whatever lens serves your understanding."
+> **The solution**: Be explicit about this integration. "The Threads describe patterns that appear whether you interpret them spiritually, psychologically, or sociologically. Use whatever lens serves your understanding."
 
-**Universal vs. Particular tension.** By trying to be universal, does it become so general it says nothing specific? But if it says something specific, is it truly universal? This is THE classic UU problem and the Spiral doesn't solve it, just reproduces it.
+**Universal vs. Particular tension.** By trying to be universal, does it become so general it says nothing specific? But if it says something specific, is it truly universal? This is THE classic religious problem and the Threads don't solve it, just reproduce it.
 
-> ### **Universal vs. Particular: The Classic UU Problem**
+> ### **Universal vs. Particular: The Classic Religious Problem**
 > 
-> You're right \- the Spiral reproduces this tension. **But that's the point.**
+> You're right \- the Threads reproduce this tension. **But that's the point.**
 > 
 > Instead of solving the universal/particular problem, the Spiral **names it as a creative tension to hold**. This could be its own thread:
 > 
@@ -358,7 +358,7 @@ From Black, Indigenous, and other liberation perspectives:
 > 
 > The framework is universal at the **structural** level (everyone navigates tensions) but particular at the **content** level (which tensions, how they're held).
 > 
-> Think of music: The octave is universal (physics), but scales are cultural (particular). The Spiral provides the octave; communities create their scales.
+> Think of music: The octave is universal (physics), but scales are cultural (particular). The Threads provide the octave; communities create their scales.
 > 
 > **Practical solution**: Each congregation develop **local annotations**:
 > 
@@ -408,7 +408,7 @@ From Black, Indigenous, and other liberation perspectives:
 > 3. Let it teach  
 > 4. **CHOOSE AND ACT**  
 > 5. Learn from consequences  
-> 6. Return to spiral  
+> 6. Return to threads  
 > **Name the shadows explicitly** in the framework:  
 > "WARNING: Holding creative tension is NOT:  
 > * Avoiding hard decisions indefinitely  
@@ -466,27 +466,27 @@ From Black, Indigenous, and other liberation perspectives:
 > ### **The Meta-Solution: Multiple Versions**
 > 
 > Create **different expressions** for different needs:  
-> **Spiral 1.0** \- The Full Framework (current version) **Spiral Lite** \- Just three threads: POWER, PAUSE, BECOMING **Spiral Simple** \- One practice: "Find the tension, breathe, listen" **Spiral Earth** \- Seasonal/elemental version **Spiral Kids** \- "Sometimes two things are true\!" **Spiral Justice** \- Centers POWER and liberation **Spiral Mystic** \- Centers direct experience  
+> **Threads 1.0** \- The Full Framework (current version) **Threads Lite** \- Just three threads: POWER, PAUSE, BECOMING **Threads Simple** \- One practice: "Find the tension, breathe, listen" **Threads Earth** \- Seasonal/elemental version **Threads Kids** \- "Sometimes two things are true\!" **Threads Justice** \- Centers POWER and liberation **Threads Mystic** \- Centers direct experience  
 > Let communities choose their version, modify it, make it theirs.
 
 ## **9\. The Deepest Critique**
 
-**Does UU need this?** The fundamental question: Does this framework solve a real problem or create a solution looking for a problem? UU's theological diversity is both weakness and strength. Attempts to create unifying frameworks often either:
+**Do we need this?** The fundamental question: Does this framework solve a real problem or create a solution looking for a problem? Our theological diversity is both weakness and strength. Attempts to create unifying frameworks often either:
 
 * Become so vague they're meaningless  
 * Become specific and exclude someone  
 * Get adopted superficially without deep engagement  
 * Create insider/outsider dynamics
 
-Why would The Spiral of Becoming escape these patterns?
+Why would The Threads of Becoming escape these patterns?
 
 > ### **The Answer to "Why do we need this?"**
 > 
-> Interfaith theological diversity creates a specific problem: How do we act together when we believe differently? The Spiral doesn't solve this by creating theological agreement but by identifying **sub-theological tensions** everyone navigates regardless of belief.
+> Interfaith theological diversity creates a specific problem: How do we act together when we believe differently? The Threads don't solve this by creating theological agreement but by identifying **sub-theological tensions** everyone navigates regardless of belief.
 > 
 > It's not another theology competing for dominance. It's a practice framework that works whether you're Humanist, Atheist/Agnostic, Situation/Non-religious, Christian, Muslim, Neopagan, or Buddhist. It's the common ground BELOW theology.
 > 
-> The other frameworks that attempted this (like the Principles) became quasi-creedal. The Spiral resists this by:
+> The other frameworks that attempted this (like the Principles) became quasi-creedal. The Threads resist this by:
 > 
 > * Being openly versioned  
 > * Privileging questions  
@@ -514,7 +514,7 @@ The real test: Can it help actual congregations with actual conflicts while hono
 > 
 > The framework will never satisfy everyone. That's not failure \- that's honesty. The question isn't "Does it perfectly address every critique?" but "Does it create more possibility than it closes?"
 > 
-> Every critique that makes it better proves it's alive. Every adaptation shows it's working. Every failure teaches. The Spiral of Becoming is becoming through its own struggles with these tensions:
+> Every critique that makes it better proves it's alive. Every adaptation shows it's working. Every failure teaches. The Threads of Becoming is becoming through its own struggles with these tensions:
 > 
 > * Universal ↔ Particular  
 > * Simple ↔ Complex  
@@ -525,13 +525,13 @@ The real test: Can it help actual congregations with actual conflicts while hono
 > 
 > ### **The Ultimate Response**
 > 
-> Every critique makes the framework stronger IF we integrate rather than defend. The Spiral of Becoming is itself becoming \- let it be transformed by engagement with liberation theology, humanist empiricism, earth-centered practice. That's the whole point.
+> Every critique makes the framework stronger IF we integrate rather than defend. The Threads of Becoming is itself becoming \- let it be transformed by engagement with liberation theology, humanist empiricism, earth-centered practice. That's the whole point.
 > 
 > The framework succeeds not by being complete but by being **generatively incomplete** \- always ready for the next thread, the next critique, the next becoming.
 > 
 > ### **The Integration Response**
 > 
-> These aren't bugs to fix but features to acknowledge. The Spiral SHOULD:
+> These aren't bugs to fix but features to acknowledge. The Threads SHOULD:
 > 
 > * Frustrate those wanting pure theology OR pure psychology  
 > > * Struggle with universal vs. particular (that's a thread\!)  
@@ -553,6 +553,6 @@ The real test: Can it help actual congregations with actual conflicts while hono
 > 
 > It's a **practice framework for engaging creative tension**. That's all. That's enough.
 > 
-> The critiques don't invalidate it \- they locate its edges, which is exactly what something calling itself "The Spiral of Becoming" needs: clarity about what it's becoming and what it's not.
+> The critiques don't invalidate it \- they locate its edges, which is exactly what something calling itself "The Threads of Becoming" needs: clarity about what it's becoming and what it's not.
 > 
 > **The ultimate test**: Does it help real people in real conflicts make real choices with more wisdom and compassion? If yes, the critiques are creative tension. If no, they're verdict.
