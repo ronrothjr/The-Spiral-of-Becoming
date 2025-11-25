@@ -8,7 +8,7 @@ Process Theology, emerging from Alfred North Whitehead's philosophical work in t
 
 Rather than viewing conflict as dysfunction to be resolved, Process thought sees creative tension as the very engine of transformation: stability and change, individual and collective, freedom and belonging are not opposites to choose between but polarities that generate new possibilities through their interaction. The divine (however understood) works not through coercive power but through persuasion—offering possibilities that "lure" creation toward greater beauty, complexity, and harmony. 
 
-The Spiral of Becoming translates these abstract Process concepts into practical, embodied practices for personal and communal transformation, making Whitehead's insight that "the many become one and are increased by one" into lived experience through creative engagement with tension rather than resolution of it.
+The Threads of Becoming translates these abstract Process concepts into practical, embodied practices for personal and communal transformation, making Whitehead's insight that "the many become one and are increased by one" into lived experience through creative engagement with tension rather than resolution of it.
 
 ### **What Is Process Thought?**
 
