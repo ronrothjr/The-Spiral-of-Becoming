@@ -4,9 +4,9 @@
 
 ## **1\. The Humanist Challenge**
 
-**"Why do we need another metaphysical framework?"** Religious humanists spent decades freeing UU from required theological structures. The Spiral, despite its openness, still imposes a PARTICULAR way of seeing reality \- through tensions, threads, and becoming. This could be seen as regression from the hard-won freedom to "believe what you want as long as you act ethically."
+**"Why do we need another metaphysical framework?"** Religious humanists spent decades freeing us from required theological structures. The Spiral, despite its openness, still imposes a PARTICULAR way of seeing reality \- through tensions, threads, and becoming. This could be seen as regression from the hard-won freedom to "believe what you want as long as you act ethically."
 
-**The Process Theology grounding is problematic.** Most UU humanists reject Process Theology's quasi-theistic elements. Even if you say "God is optional," the entire framework emerges from Whiteheadian metaphysics that many find unnecessarily complex and ultimately unprovable. Why not just use psychological and sociological frameworks that don't require metaphysical commitments?
+**The Process Theology grounding is problematic.** Most humanists reject Process Theology's quasi-theistic elements. Even if you say "God is optional," the entire framework emerges from Whiteheadian metaphysics that many find unnecessarily complex and ultimately unprovable. Why not just use psychological and sociological frameworks that don't require metaphysical commitments?
 
 > ### **Process Thought Reduced to Essentials**
 > 
@@ -258,16 +258,16 @@ From Black, Indigenous, and other liberation perspectives:
 > 
 > The Spiral could be the container for:
 > 
-> * Article II discussions (holding tension between values)  
-> * Soul Matters themes (each theme has tensions)  
+> * Cultural Values discussions (holding tension between values)  
+> * Small Group themes (each theme has tensions)  
 > * Justice work (power tensions)  
 > * Pastoral care (personal tensions)  
 >   **Framework Fatigue: The Integration Solution**  
 >   Don't add The Spiral to existing frameworks \- **show how it holds them**:  
-> * **Soul Matters monthly themes**: Each theme contains tensions the Spiral names  
+> * **Small Group monthly themes**: Each theme contains tensions the Spiral names  
 >   * "Heritage" month \= MEMORY thread  
 >   * "Imagination" month \= UNCERTAINTY thread  
-> * **Article II values**: Each value exists in tension with others  
+> * **Cultural Values**: Each value exists in tension with others  
 >   * Justice ↔ Compassion (when do they conflict?)  
 >   * Equity ↔ Transformation (what changes, what stays?)  
 > * **Existing covenant groups**: Add one question: "What tension are we holding?"
@@ -480,11 +480,11 @@ From Black, Indigenous, and other liberation perspectives:
 
 Why would The Spiral of Becoming escape these patterns?
 
-> ### **The Answer to "Why does UU need this?"**
+> ### **The Answer to "Why do we need this?"**
 > 
-> UU's theological diversity creates a specific problem: How do we act together when we believe differently? The Spiral doesn't solve this by creating theological agreement but by identifying **sub-theological tensions** everyone navigates regardless of belief.
+> Interfaith theological diversity creates a specific problem: How do we act together when we believe differently? The Spiral doesn't solve this by creating theological agreement but by identifying **sub-theological tensions** everyone navigates regardless of belief.
 > 
-> It's not another theology competing for dominance. It's a practice framework that works whether you're humanist, Christian, pagan, or Buddhist. It's the common ground BELOW theology.
+> It's not another theology competing for dominance. It's a practice framework that works whether you're Humanist, Atheist/Agnostic, Situation/Non-religious, Christian, Muslim, Neopagan, or Buddhist. It's the common ground BELOW theology.
 > 
 > The other frameworks that attempted this (like the Principles) became quasi-creedal. The Spiral resists this by:
 > 
@@ -506,7 +506,7 @@ These critiques don't invalidate the framework but identify where it needs:
 * Institutional support  
 * Shadow awareness
 
-The fact that it can be critiqued from every UU theological position might actually validate its universality \- it's not captured by any single theology. But it also means it needs to be robust enough to withstand and integrate these critiques, not dismiss them.
+The fact that it can be critiqued from every theological position might actually validate its universality \- it's not captured by any single theology. But it also means it needs to be robust enough to withstand and integrate these critiques, not dismiss them.
 
 The real test: Can it help actual congregations with actual conflicts while honoring their theological diversity? The jury's still out.
 
