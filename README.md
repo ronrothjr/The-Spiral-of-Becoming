@@ -34,7 +34,7 @@ This is a first pass at providing the initial structure for sharing wisdom in th
 
 ## **[Process Thought: A Universal Primer](process-thought.md)**
 
-This provides the philosophical grounding for "becoming" promise built into the Threads of Becoming.
+This provides the philosophical grounding for the "becoming" promise built into the Threads of Becoming.
 
 ---
 
