@@ -24,9 +24,13 @@ These are the original seven threads tested in the specific context of a Unitari
 
 This is a broad critique of The Threads of Becoming designed to begin a conversation to rearchitect The Threads still in process.
 
-### [A Primer for Thread Discovery](thread-discovery.md)
+### **[A Primer for Thread Discovery](thread-discovery.md)**
 
 This is a first pass at providing the initial structure for sharing wisdom by identifying universal tensions.
+
+### **[A Basic Navigation Framework](navigation.md)**
+
+This basic framework for navigating the threads delivers on the promise in our tagline without overreaching, giving space for cultural and community adaptation.
 
 ### **[Process Thought: A Universal Primer](process-thought.md)**
 
