@@ -1,4 +1,5 @@
 # The Threads of Becoming v1.0.1
+## **Expectations**
 "The Threads of Becoming don't provide answers. They identify universal tensions that every human and every tradition must navigate. We're not here to tell you how to resolve these tensions but to create space where we can share our different approaches and learn from each other's wisdom."
 
 _Let's admit what it's NOT:_
@@ -9,7 +10,7 @@ _Let's admit what it's NOT:_
 * Not immune to misuse
 * Not finished evolving
 
-It's a **practice framework for engaging creative tension.** _That's all. That's enough._
+It's a **practice framework for engaging creative tension** within and between individuals and communities. _That's all. That's enough._
 
 ---
 
