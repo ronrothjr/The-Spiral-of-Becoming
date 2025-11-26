@@ -1,5 +1,7 @@
 # **A Primer for Thread Discovery**
 
+Here's where your creativity will blossom for the highest purpose. The process of discovering a Thread is itself a thread, a tension between the individual and the universe. Not only is it rewarding (and maybe a little addicting), but it's also fun.
+
 ## **How to Recognize a Universal Thread**
 
 A thread might be universal if:
