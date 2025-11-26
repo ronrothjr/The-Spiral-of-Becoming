@@ -613,8 +613,8 @@ The real test: Can it help actual congregations with actual conflicts while hono
 > * Not a complete theology  
 > * Not a psychological system  
 > * Not a solution to all problems  
-* Not immune to misuse  
-* Not finished evolving
+> * Not immune to misuse  
+> * Not finished evolving
 > 
 > It's a **practice framework for engaging creative tension**. That's all. That's enough.
 > 
