@@ -22,10 +22,6 @@ https://github.com/user-attachments/assets/ad4cd778-7aa1-46d6-bf66-b026e397a9d0
 
 These are the original seven threads tested in the specific context of a Unitarian Universalist community in South Florida.
 
-### **[The Threads 2.0?](threads-2.0.md)**
-
-This is a broad critique of The Threads of Becoming designed to begin a conversation to rearchitect The Threads still in process.
-
 ### **[A Primer for Thread Discovery](thread-discovery.md)**
 
 This is a first pass at providing the initial structure for sharing wisdom by identifying universal tensions.
