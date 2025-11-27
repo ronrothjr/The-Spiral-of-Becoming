@@ -64,35 +64,11 @@ Craft questions that open exploration rather than close it. What asks will invit
 
 Questions are the invitation mechanism. Without them, you have a private insight rather than a shared inquiry. A well-formulated question turns a tension you've discovered into a space others can enter.
 
-https://github.com/user-attachments/assets/58a91423-41c2-4dce-ab51-e3ca04dee4c4
-
 ---
 
 ## The Art of Thread Questions
 
 Thread questions come in three forms, each serving a different purpose:
-
-### The Seed Question
-
-The most distilled form — almost primordial. One question that cracks open the entire tension.
-
-**Examples from current threads:**
-* "What is real?" (PRESENCE)
-* "Do we choose?" (CONSENT)
-* "Who are we?" (MEMORY)
-* "When do we act?" (PAUSE)
-* "Do bodies hold truth?" (EMBODIMENT)
-* "What don't we know?" (UNCERTAINTY)
-* "Why do we change?" (BECOMING)
-
-**Criteria for a good seed:**
-* Answerable by a child, inexhaustible by a sage
-* 2-5 words
-* No jargon, no tradition-specific language
-* Evokes felt sense before intellectual response
-* Contains the tension implicitly without naming it
-
-**Test:** If someone from any background can immediately feel why this question matters, you have a seed.
 
 ### Universal Questions
 
@@ -126,20 +102,6 @@ These elaborate the tension into specific facets — each one a doorway into the
 *The Tradition-Bridge Question* — Ask what would spark cross-tradition dialogue:
 > "What does 'yes' mean in a universe of forces beyond our control?"
 
-### The Meta-Question
-
-Each thread carries an implicit question about how to hold this particular tension without resolving it prematurely. This question acknowledges that navigation itself requires wisdom.
-
-**Examples:**
-* PRESENCE: "What makes presence feel like engagement rather than escape?"
-* CONSENT: "When does surrender become abdication and agency become control?"
-* MEMORY: "How do we know when holding on is loyalty and when it's imprisonment?"
-* PAUSE: "What distinguishes sacred waiting from fearful avoidance?"
-
-https://github.com/user-attachments/assets/2ede1c8c-bb1f-4695-8960-146b1fa1c8b7
-
----
-
 ## Question Quality Tests
 
 Before finalizing your questions, run each through these filters:
@@ -159,8 +121,6 @@ Is this a question you could return to across decades without exhausting it? Thr
 **The Both/And Test**
 Does answering require holding tension, or does it invite pole-choosing? Questions that can be answered by simply picking a side aren't thread questions.
 
----
-
 ## A Practice for Question Generation
 
 When you've identified a potential thread and are ready to formulate questions:
@@ -178,6 +138,44 @@ When you've identified a potential thread and are ready to formulate questions:
 6. **Refine.** Shape your surviving questions. Remove unnecessary words. Ensure each opens rather than closes. Aim for 4-6 Universal Questions plus your Seed.
 
 7. **Share.** Offer your questions to others — especially people different from you. The questions themselves become the Test Across Difference from Step 5. Notice which questions spark recognition and which fall flat.
+
+https://github.com/user-attachments/assets/58a91423-41c2-4dce-ab51-e3ca04dee4c4
+
+---
+
+### The Seed Question
+
+The most distilled form — almost primordial. One question that cracks open the entire tension.
+
+**Examples from current threads:**
+* "What is real?" (PRESENCE)
+* "Do we choose?" (CONSENT)
+* "Who are we?" (MEMORY)
+* "When do we act?" (PAUSE)
+* "Do bodies hold truth?" (EMBODIMENT)
+* "What don't we know?" (UNCERTAINTY)
+* "Why do we change?" (BECOMING)
+
+**Criteria for a good seed:**
+* Answerable by a child, inexhaustible by a sage
+* 2-5 words
+* No jargon, no tradition-specific language
+* Evokes felt sense before intellectual response
+* Contains the tension implicitly without naming it
+
+**Test:** If someone from any background can immediately feel why this question matters, you have a seed.
+
+### The Meta-Question
+
+Each thread carries an implicit question about how to hold this particular tension without resolving it prematurely. This question acknowledges that navigation itself requires wisdom.
+
+**Examples:**
+* PRESENCE: "What makes presence feel like engagement rather than escape?"
+* CONSENT: "When does surrender become abdication and agency become control?"
+* MEMORY: "How do we know when holding on is loyalty and when it's imprisonment?"
+* PAUSE: "What distinguishes sacred waiting from fearful avoidance?"
+
+https://github.com/user-attachments/assets/2ede1c8c-bb1f-4695-8960-146b1fa1c8b7
 
 ---
 
@@ -220,9 +218,61 @@ Once you've moved through the discovery process, document your thread using this
 * [What becomes possible by holding rather than resolving]
 ```
 
----
-
 *Remember: The Thread Discovery Process is itself a thread — the tension between structure and emergence, between method and intuition. Use this process as scaffold, not cage. Let your own discovery teach you how discovery works.*
+
+So, using the example used in the videos, let's fill in our Thread template: 
+
+### THRESHOLD
+
+**Seed:** "Who belongs?"
+
+**The Tension:** _Inside vs. Outside, Us vs. Them_
+
+**Universal Questions:**
+* Pole-dance: When does protecting our community's identity become harmful exclusion? 
+
+* Threshold: Where does the actual line between Us and Then begin—is it a solid wall, or is it a shared space?
+
+* Practicioner: How do we decide to open the gates of our own community and when to keep them closed for it own safety?
+
+* Stakes: When does our strong group loyalty become dangerous nationalism, and when does being radically open dissolve our group's identity entirely
+
+* Identity: Who are we of the very definition of "Us" keeps changing by welcoming "Them"?
+
+* Tradition Bridge: What does it means to belong in a world where every tradition draws the circle of community in a different place?
+
+**Meta-Question:** _How do we know if our circle is drawn in love or in fear?_
+
+**Evidence of Universality:**
+
+*How it appears across traditions:*
+Every tradition draws a circle — and then wrestles with it. The Hebrew scriptures command hospitality to the stranger ("for you were strangers in Egypt") while also maintaining covenant identity. Christianity holds "neither Jew nor Greek" alongside fierce debates about who receives communion. Islam's concept of *ummah* creates profound belonging while hospitality to the guest is sacred obligation. Buddhist *sangha* forms intentional community even as the teaching of no-self dissolves ultimate separation. Indigenous traditions worldwide balance clan identity with adoption practices that create kinship across blood. Ubuntu — "I am because we are" — makes belonging constitutive of selfhood. Confucius mapped concentric circles of obligation. Every wisdom tradition has discovered: you cannot love everyone the same way you love your own, yet your own cannot be the limit of your love.
+
+*How it shows up developmentally:*
+The infant's first work is discovering where self ends and mother begins. Toddlers learn "mine" before they learn "ours." School-age children form fierce in-groups; exclusion is among the deepest childhood wounds. Adolescence intensifies tribal identity as the self forms through group belonging. Young adulthood expands the circle — university, workplace, chosen family. Midlife often brings reckoning: which communities actually hold me? Elders ask about legacy across the final threshold — who carries what forward? The developmental arc bends toward wider circles, but never abandons the particular. We grow *through* belonging, not past it.
+
+*Historical/cultural expressions:*
+Walls tell the story: the Great Wall, Hadrian's Wall, the Berlin Wall, border walls today — humanity keeps building thresholds in stone. Every society negotiates citizenship, the legal architecture of belonging. Marriage customs encode it: who may marry whom? Endogamy preserves; exogamy connects. Caste, class, and social stratification layer belonging into hierarchy. Colonialism constructed "the other" to justify extraction. Genocide is the tension collapsed into annihilation. Yet equally universal: sanctuary traditions, guest-rights, the stranger as sacred figure. Greek *xenia*, Bedouin hospitality codes, the Torah's "stranger at your gate" — across cultures, the guest carries divine potential. The threshold is where gods appear in disguise, testing whether we recognize the holy in the unfamiliar.
+
+**The Creative Edge:**
+
+Collapse to either pole and something essential dies. Dissolve all boundaries — radical openness without distinction — and identity diffuses into abstraction. You cannot protect the vulnerable, maintain covenant, or offer the gift of genuine particularity. There is no "here" to welcome anyone *into*. But rigidify the boundary — close the circle tight — and stagnation follows. No new perspectives enter. The community becomes brittle, unable to adapt, eventually decaying from lack of fresh life. 
+
+Hold the tension and new possibilities emerge:
+
+*Discernment over rules.* Rather than "always open" or "always closed," communities develop wisdom about particular moments, particular strangers, particular needs. The question becomes not "what's our policy?" but "what does love require now?"
+
+*Threshold as transformation space.* When we stop seeing the boundary as merely a barrier, the threshold becomes liminal — a place where the stranger becomes guest, the guest becomes member, the outsider becomes kin. Initiation rituals make sense. Conversion means something. Crossing matters.
+
+*Hospitality and safety together.* These seem opposed but aren't. A home with no walls cannot shelter anyone. A home with no door cannot welcome anyone. The membrane — permeable but present — allows both protection and invitation.
+
+*Mutual transformation.* When we hold "who belongs?" as a living question rather than a settled answer, we discover that welcoming the stranger changes us, not just them. The "us" that emerges from genuine encounter is larger than the "us" that preceded it — yet still particular, still *this* community, not just any community.
+
+*The stranger as revelation.* Rigid boundaries treat the unfamiliar as threat. Dissolved boundaries make the unfamiliar unremarkable. But the held tension allows the stranger to arrive as potential gift — perhaps the angel unaware, the teacher in disguise, the missing piece we didn't know we lacked.
+
+What becomes possible is *covenant hospitality*: a community secure enough in its identity to open its doors, clear enough about its center to welcome those still finding their way, and humble enough to be changed by those it welcomes.
+
+---
 
 ## **Examples of Potential Additional Threads**
 
@@ -259,16 +309,6 @@ Once you've moved through the discovery process, document your thread using this
 * How do we maintain balance in exchange?
 * When is giving depleting and receiving greedy?  
 * What circulates through us rather than from us?
-
-### **THRESHOLD**
-**Seed:** "What makes us whole?"
-
-**Tension:** _Inside vs. Outside_, _Us vs. Them_
-
-**Questions:**
-* Where do boundaries serve and where do they separate?  
-* How do we honor containers while allowing flow?  
-* What guards the doorway and what crosses it?
 
 ### **RHYTHM**
 **Seed:** "How do we live?"
