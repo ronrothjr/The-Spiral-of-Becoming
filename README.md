@@ -55,6 +55,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ### **[About the Threads of Becoming](about.md)**
 
+What is our Mission? Why Threads? And how do they work together?
+
 ### **[Process Thought: A Universal Primer](process-thought.md)**
 
 This provides the philosophical grounding for the "becoming" promise built into the Threads of Becoming.
