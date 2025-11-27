@@ -17,6 +17,8 @@ When you encounter a tension\*:
 
 \* You will often find multiple tensions/threads pulling at a single event, since they are all connected.
 
+https://github.com/user-attachments/assets/802d2ef8-b6a4-4328-b273-1939fc01bc77
+
 ### **The Intentional Incompleteness**
 
 This practice is deliberately simple and incomplete. Why? Because:
