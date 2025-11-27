@@ -64,13 +64,11 @@ Craft questions that open exploration rather than close it. What asks will invit
 
 Questions are the invitation mechanism. Without them, you have a private insight rather than a shared inquiry. A well-formulated question turns a tension you've discovered into a space others can enter.
 
----
-
 ## The Art of Thread Questions
 
 Thread questions come in three forms, each serving a different purpose:
 
-### Universal Questions
+### 1\. Universal Questions
 
 These elaborate the tension into specific facets — each one a doorway into the same room from a different angle. Aim for 4-6 questions that together map the territory of the tension.
 
@@ -102,6 +100,48 @@ These elaborate the tension into specific facets — each one a doorway into the
 *The Tradition-Bridge Question* — Ask what would spark cross-tradition dialogue:
 > "What does 'yes' mean in a universe of forces beyond our control?"
 
+https://github.com/user-attachments/assets/58a91423-41c2-4dce-ab51-e3ca04dee4c4
+
+---
+
+### 2\. The Seed Question
+
+The most distilled form — almost primordial. One question that cracks open the entire tension.
+
+**Examples from current threads:**
+* "What is real?" (PRESENCE)
+* "Do we choose?" (CONSENT)
+* "Who are we?" (MEMORY)
+* "When do we act?" (PAUSE)
+* "Do bodies hold truth?" (EMBODIMENT)
+* "What don't we know?" (UNCERTAINTY)
+* "Why do we change?" (BECOMING)
+
+**Criteria for a good seed:**
+* Answerable by a child, inexhaustible by a sage
+* 2-5 words
+* No jargon, no tradition-specific language
+* Evokes felt sense before intellectual response
+* Contains the tension implicitly without naming it
+
+**Test:** If someone from any background can immediately feel why this question matters, you have a seed.
+
+### 3\. The Meta-Question
+
+Each thread carries an implicit question about how to hold this particular tension without resolving it prematurely. This question acknowledges that navigation itself requires wisdom. 
+
+The Meta-Question comes last. As people engage the Universal Questions, they often drift toward one pole — collapsing the tension rather than holding it. Naming the collapse creates space to move again.
+
+**Examples:**
+* PRESENCE: "What makes presence feel like engagement rather than escape?"
+* CONSENT: "When does surrender become abdication and agency become control?"
+* MEMORY: "How do we know when holding on is loyalty and when it's imprisonment?"
+* PAUSE: "What distinguishes sacred waiting from fearful avoidance?"
+
+https://github.com/user-attachments/assets/2ede1c8c-bb1f-4695-8960-146b1fa1c8b7
+
+---
+
 ## Question Quality Tests
 
 Before finalizing your questions, run each through these filters:
@@ -127,57 +167,17 @@ When you've identified a potential thread and are ready to formulate questions:
 
 1. **Settle.** Sit with the tension for a few breaths. Let it live in your body, not just your mind.
 
-2. **Distill.** Ask yourself: "If I could only ask one question about this for the rest of my life, what would it be?" This is your seed.
+2. **Expand.** Write 10-15 questions about this tension without filtering. Use the six heuristics as prompts. Don't judge — just generate.
 
-3. **Expand.** Write 10-15 questions about this tension without filtering. Use the six heuristics as prompts. Don't judge — just generate.
+3. **Feel.** Read through your questions. Circle the ones that made you feel something — curiosity, recognition, slight discomfort, aliveness.
 
-4. **Feel.** Read through your questions. Circle the ones that made you feel something — curiosity, recognition, slight discomfort, aliveness.
-
-5. **Test.** Run your circled questions through the quality tests above. Which survive?
+4. **Test.** Run your circled questions through the quality tests above. Which survive?
+   
+5. **Distill.** Ask yourself: "If I could only ask one question about this for the rest of my life, what would it be?" This may be your seed.
 
 6. **Refine.** Shape your surviving questions. Remove unnecessary words. Ensure each opens rather than closes. Aim for 4-6 Universal Questions plus your Seed.
 
 7. **Share.** Offer your questions to others — especially people different from you. The questions themselves become the Test Across Difference from Step 5. Notice which questions spark recognition and which fall flat.
-
-https://github.com/user-attachments/assets/58a91423-41c2-4dce-ab51-e3ca04dee4c4
-
----
-
-### The Seed Question
-
-The most distilled form — almost primordial. One question that cracks open the entire tension.
-
-**Examples from current threads:**
-* "What is real?" (PRESENCE)
-* "Do we choose?" (CONSENT)
-* "Who are we?" (MEMORY)
-* "When do we act?" (PAUSE)
-* "Do bodies hold truth?" (EMBODIMENT)
-* "What don't we know?" (UNCERTAINTY)
-* "Why do we change?" (BECOMING)
-
-**Criteria for a good seed:**
-* Answerable by a child, inexhaustible by a sage
-* 2-5 words
-* No jargon, no tradition-specific language
-* Evokes felt sense before intellectual response
-* Contains the tension implicitly without naming it
-
-**Test:** If someone from any background can immediately feel why this question matters, you have a seed.
-
-### The Meta-Question
-
-Each thread carries an implicit question about how to hold this particular tension without resolving it prematurely. This question acknowledges that navigation itself requires wisdom.
-
-**Examples:**
-* PRESENCE: "What makes presence feel like engagement rather than escape?"
-* CONSENT: "When does surrender become abdication and agency become control?"
-* MEMORY: "How do we know when holding on is loyalty and when it's imprisonment?"
-* PAUSE: "What distinguishes sacred waiting from fearful avoidance?"
-
-https://github.com/user-attachments/assets/2ede1c8c-bb1f-4695-8960-146b1fa1c8b7
-
----
 
 ## The Interweaving of Steps 5 and 6
 
