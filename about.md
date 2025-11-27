@@ -1,29 +1,6 @@
 
 ## **About the Threads of Becoming**
 
-### **Mission:**
-
-The mission of The Threads of Becoming (TOB) open-source project is to function as a **living framework for engaging creative tension** that evolves through **collective wisdom and continuous practice**.
-
-The project aims to serve as a **practice framework** that provides common ground for diverse theological and philosophical viewpoints, rather than functioning as a complete or fixed theological system.
-
-#### Core Mission Components
-
-1.  **To Identify Universal Tensions**
-2.  **To Foster Co-Creation and Dialogue** 
-3.  **To Remain Dynamically Evolving**
-4.  **To Provide a Practice-Based Toolset**
-5.  **To Provide Common Ground Below Human Experience**
-6.  **To Ensure Openness and Accessibility**
-
-The underlying philosophy is that the framework succeeds not by being complete, but by being **generatively incomplete**. This openness transforms the project from an individual creation to **"humanity's ongoing discovery"**.
-
-The project is continually refined by its own struggles with tensions (such as Universal $\leftrightarrow$ Particular and Simple $\leftrightarrow$ Complex), demonstrating the very process it seeks to teach: **The Threads of Becoming is itself becoming**.
-
-As an open-source project, its ultimate success is measured not by the absence of conflict or adherence to doctrine, but by whether it creates **more possibility than it closes**.
-
----
-
 ### **What Shape are the Threads?**
 
 The Threads of Becoming aren't locked into any single shape or metaphor. Like water taking the form of its container while maintaining its essential nature, these universal tensions can be understood through whatever geometry serves your purpose, tradition, or learning style. The framework remains consistent whether you visualize it as spiral, web, wheel, or any other pattern that helps you engage. Choose the metaphor that makes the tensions come alive for you:
