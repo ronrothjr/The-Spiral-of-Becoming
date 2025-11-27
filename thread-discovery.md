@@ -220,7 +220,11 @@ Once you've moved through the discovery process, document your thread using this
 
 *Remember: The Thread Discovery Process is itself a thread — the tension between structure and emergence, between method and intuition. Use this process as scaffold, not cage. Let your own discovery teach you how discovery works.*
 
-So, using the example used in the videos, let's fill in our Thread template: 
+---
+
+## **Tying It All Together**
+
+Now, using the example demonstrated in the explainer videos, let's fill in our Thread template: 
 
 ### THRESHOLD
 
@@ -229,6 +233,7 @@ So, using the example used in the videos, let's fill in our Thread template:
 **The Tension:** _Inside vs. Outside, Us vs. Them_
 
 **Universal Questions:**
+
 * Pole-dance: When does protecting our community's identity become harmful exclusion? 
 
 * Threshold: Where does the actual line between Us and Then begin—is it a solid wall, or is it a shared space?
