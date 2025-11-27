@@ -141,6 +141,9 @@ The Meta-Question comes last. As people engage the Universal Questions, they oft
 * CONSENT: "When does surrender become abdication and agency become control?"
 * MEMORY: "How do we know when holding on is loyalty and when it's imprisonment?"
 * PAUSE: "What distinguishes sacred waiting from fearful avoidance?"
+* EMBODIMENT: "How do we know if we're ascending through the body or escaping from it?"
+* UNCERTAINTY: "When is not-knowing wisdom and when is it avoidance?"
+* BECOMING: "When is our constancy integrity and when is it fear of growth?"
 
 https://github.com/user-attachments/assets/2ede1c8c-bb1f-4695-8960-146b1fa1c8b7
 
