@@ -171,7 +171,7 @@ When contributing, practice holding tensions:
 
 1. **[Open an Issue](https://github.com/ronrothjr/The-Threads-of-Becoming/issues)**: Use our issue templates to propose contributions  
 2. **Email**: Send contributions to threadsofbecoming@gmail.com with "Threads Contribution" in subject  
-3. **Discussion**: Start a conversation in the Discussions tab
+3. **Discussion**: Start a conversation in the **[Discussions](https://github.com/ronrothjr/The-Threads-of-Becoming/discussions)** tab
 
 ### **For Technical Contributors**
 
@@ -183,7 +183,7 @@ When contributing, practice holding tensions:
 6. **Submit a Pull Request** with:  
    * Clear description of the contribution  
    * Context for why this adds value  
-   * Any relevant discussion or issue numbers
+   * Any relevant [discussion](https://github.com/ronrothjr/The-Threads-of-Becoming/discussions) or [issue](https://github.com/ronrothjr/The-Threads-of-Becoming/issues) numbers
 
 ## **Review Process**
 
