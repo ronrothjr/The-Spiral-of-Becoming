@@ -183,3 +183,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ### **[About the Threads of Becoming](about.md)**
 
 Why Threads? And how do they work together?
+
+---
+
+## **License**
+
+This work is licensed under Creative Commons Attribution-ShareAlike 4.0 International. You are free to use, adapt, and share with attribution.
+
