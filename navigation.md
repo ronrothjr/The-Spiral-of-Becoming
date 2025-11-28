@@ -53,6 +53,22 @@ This framing:
 
 ---
 
+_This provides the philosophical grounding for the "becoming" promise built into the Threads of Becoming._
+
+---
+
+## **Your Path Begins Here...**
+
+### **[What Are We?](https://github.com/ronrothjr/The-Threads-of-Becoming/edit/main/README.md)**
+
+The Threads of Becoming is a **practice framework for engaging creative tension** within and between individuals and communities. _That's all. That's enough._
+
+https://github.com/user-attachments/assets/ad4cd778-7aa1-46d6-bf66-b026e397a9d0
+
+### **[The Current Threads of Becoming](https://ronrothjr.github.io/The-Threads-of-Becoming/threads.html)**
+
+These are the original seven threads tested in the specific context of a Unitarian Universalist community in South Florida.
+
 ## **If You Want to Contribute...**
 
 ### **[A Primer for Thread Discovery](thread-discovery.md)**
@@ -79,5 +95,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 Why Threads? And how do they work together?
 
 ### **[Process Thought: A Universal Primer](process-thought.md)**
-
-This provides the philosophical grounding for the "becoming" promise built into the Threads of Becoming.
