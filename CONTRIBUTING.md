@@ -170,7 +170,7 @@ When contributing, practice holding tensions:
 ### **For Non-Technical Contributors**
 
 1. **[Open an Issue](https://github.com/ronrothjr/The-Threads-of-Becoming/issues)**: Use our issue templates to propose contributions  
-2. **Email**: Send contributions to \[threadsofbecoming@gmail.com\] with "Threads Contribution" in subject  
+2. **Email**: Send contributions to threadsofbecoming@gmail.com with "Threads Contribution" in subject  
 3. **Discussion**: Start a conversation in the Discussions tab
 
 ### **For Technical Contributors**
