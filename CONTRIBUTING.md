@@ -169,8 +169,8 @@ When contributing, practice holding tensions:
 
 ### **For Non-Technical Contributors**
 
-1. **Open an Issue**: Use our issue templates to propose contributions  
-2. **Email**: Send contributions to \[email\] with "Threads Contribution" in subject  
+1. **[Open an Issue](https://github.com/ronrothjr/The-Threads-of-Becoming/issues)**: Use our issue templates to propose contributions  
+2. **Email**: Send contributions to \[threadsofbecoming@gmail.com\] with "Threads Contribution" in subject  
 3. **Discussion**: Start a conversation in the Discussions tab
 
 ### **For Technical Contributors**
@@ -219,7 +219,7 @@ We commit to:
 
 All contributors will be acknowledged in:
 
-* The CONTRIBUTORS.md file  
+* The [CONTRIBUTORS.md](CONTRIBUTORS.md) file  
 * Release notes for versions including their contribution  
 * Annual community acknowledgment
 
@@ -227,7 +227,7 @@ All contributors will be acknowledged in:
 
 If you're unsure about a contribution, open an issue with the "Question" label. We'd rather explore together than have you hesitate to contribute.
 
-Remember: The That's of Becoming is itself becoming. Your contribution, however small, is part of its evolution. We're not looking for perfection but for authentic engagement with these universal tensions.
+Remember: The Threads of Becoming is itself becoming. Your contribution, however small, is part of its evolution. We're not looking for perfection but for authentic engagement with these universal tensions.
 
 ## **License Note**
 
