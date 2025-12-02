@@ -411,6 +411,36 @@ Welcome to the spiral.
 
 ---
 
+## **What's Next?*"
+
+Here are three ways to continue your journey. Choose the one that feels right for where you are today.
+
+### **1. Which Thread is Vibrating?**
+
+As we said, you can’t navigate all seven threads at once. But usually, there is one that is pulling tighter than the others right now. Is , holding on and letting go?
+
+We’d love to hear from you in the comments: **Which of the seven threads is most active in your life today, and what is one question you’re asking yourself about it?**
+
+Let’s hold the space together.
+
+### 2. **Don't Hold the Tension Alone**
+
+We’ve all had those arguments that feel like loops—where we’re fighting about the dishes but really wrestling with Presence or Consent.
+
+If there is someone you are navigating a difficult spiral with—a partner, a colleague, or a friend—consider sending this to them. Not as a way to say "you need to fix this," but as an invitation to ask: _"Are we just holding different ends of the same thread?"_
+
+Sometimes, just having a shared language is the beginning of the music.
+
+### 3. **A Practice for the Week**
+
+The goal isn't to master the framework overnight; the goal is simply to notice. This week, try a small experiment.
+
+Keep the **[Visual Map](docs/assets/seven-threads.png "The Seven Threads") of the Seven Threads** saved on your phone. When you feel that familiar tightening in your chest or stomach, take a pause. Look at the map. Ask yourself just one question: **"What isn't finished in me?"**
+
+You don't need to solve it. Just name it, breathe into it, and let the spiral do the rest.
+
+---
+
 ### **Keeping It Explicitly Open**
 
 We are dedicated to allowing this space to grow and change through community involvement, not private ownership.
