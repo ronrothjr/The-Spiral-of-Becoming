@@ -1,5 +1,11 @@
 # **The Threads of Becoming: Finding Common Ground in Life's Deepest Questions**
 
+_**Abstract:** The Threads of Becoming explores seven universal tensions that show up wherever humans wrestle with what matters: Presence, Consent, Memory, Pause, Embodiment, Uncertainty, and Becoming.
+Not a theology. Not a psychology. A shared language for the questions we all recognize.
+The full article offers real examples, guiding questions, and a simple navigation practice._
+
+---
+
 You've had this argument before.
 
 Maybe it's with your partner—the one about how much time you spend together versus apart. Maybe it's the conversation with yourself about whether to speak up in the meeting or stay quiet. Maybe it's the tug-of-war between honoring where you came from and becoming who you're meant to be.
@@ -116,7 +122,11 @@ What follows are the seven universal tensions we've identified—not because we 
 
 These aren't the only tensions that matter. They're the ones that have proven most universal—recognized across cultures, generations, belief systems, and life experiences. We expect the framework to evolve as communities engage with it and discover threads we haven't yet seen.
 
+_To help you see the pattern at a glance, here is a visual map of the seven threads—each a tension that shapes who we are and who we are becoming._
+
 ![The Seven Threads](docs/assets/seven-threads.png "The Seven Threads")
+
+_Now that you've seen the map, let’s return to the territory._
 
 ---
 
