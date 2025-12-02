@@ -411,7 +411,7 @@ Welcome to the spiral.
 
 ---
 
-## **What's Next?*"
+## **What's Next?**
 
 Here are three ways to continue your journey. Choose the one that feels right for where you are today.
 
