@@ -386,3 +386,54 @@ You don't need answers to all of them. Just notice which ones light up. Which te
 That noticing is the beginning. The rest is practice—imperfect, ongoing, human.
 
 Welcome to the spiral.
+
+---
+
+### **Keeping It Explicitly Open**
+
+We are dedicated to allowing this space to grow and change through community involvement, not private ownership.
+
+## **Your Path Begins Here...**
+
+### **[The Current Threads of Becoming](threads.md)**
+
+These are the original seven threads tested in the specific context of a Unitarian Universalist community in South Florida.
+
+### **[A Basic Navigation Framework](navigation.md)**
+
+This basic framework for navigating the threads delivers on the promise in our tagline without overreaching, giving space for cultural and community adaptation.
+
+## **If You Want to Contribute...**
+
+### **[A Primer for Thread Discovery](thread-discovery.md)**
+
+This is a first pass at providing the initial structure for sharing wisdom by identifying universal tensions.
+
+### **[Contributing](CONTRIBUTING.md)**
+
+The Threads of Becoming is a living framework, designed to evolve through practice and collective wisdom in this particular GitHub setting. We invite contributions that:
+
+* Identify new universal tensions/threads
+* Share how different traditions engage these questions
+* Offer practices for embodying these tensions
+* Document applications in communities
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+## **If you're Philosophically Curious...**
+
+### **[About the Threads of Becoming](about.md)**
+
+Why Threads? And how do they work together?
+
+### **[Process Thought: A Universal Primer](process-thought.md)**
+
+This provides the philosophical grounding for the "becoming" promise built into the Threads of Becoming.
+
+---
+
+## **License**
+
+This work is licensed under Creative Commons Attribution-ShareAlike 4.0 International. You are free to use, adapt, and share with attribution.
