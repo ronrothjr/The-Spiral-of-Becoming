@@ -131,11 +131,51 @@ Growth isn't a ladder. It's a spiral. You come back to the same relationships, t
 
 This is why recovery programs speak of "progress, not perfection." Why therapists aren't surprised when old patterns resurface. Why mystics describe the spiritual journey as returning home rather than escaping somewhere else. The spiral brings us back, and back, and back—each time with more tools, more compassion, more capacity to choose differently.
 
-"Nothing is final. Nothing is fixed. All is becoming." The Greek philosopher Heraclitus knew this: you cannot step in the same river twice, because the river has changed and so have you.
-
 The tension runs between *same* and *different*—have I actually changed or am I just going through the motions?—and between *return* and *forward*—am I spiraling back to old ground or pushing into new territory? The stuck loop keeps repeating without transformation. Linear progress moves forward without integrating. The spiral does both: returning and rising, remembering and becoming.
 
 When you're not sure if you're growing or just going in circles, ask: *What isn't finished in me?* This isn't accusation—"Why haven't you fixed this yet?" It's recognition that becoming continues. The unfinished isn't failure. It's life. The spiral breathes, and so do you.
+
+---
+
+## Navigating the Threads: A Practice
+
+Here's the thing about these seven tensions: you don't encounter them one at a time in neat sequence. They pile on. The fight with your partner involves presence *and* consent *and* memory *and* timing. The decision about whether to leave your job activates your body *and* your uncertainty *and* your sense of who you're becoming. Life doesn't sort itself into categories.
+
+So how do you work with this when things get tangled?
+
+Just naming the tension is already half the work. When you can say "Oh—this is a consent question" or "I'm caught between holding on and letting go," something shifts. The tension loses some of its unconscious grip. You're no longer inside the storm; you're watching the weather.
+
+Here's a simple practice—not *the* way, but *a* way that's proven useful:
+
+**Identify.** Which thread is pulling? Maybe several. Name them. Say it out loud if that helps: "This is about memory. And consent. And I'm not sure I'm really present."
+
+**Locate.** Where do you feel it? Tension lives in the body before it becomes thought. Tight chest? Clenched jaw? Hollow stomach? The body often knows which thread is activated before the mind does.
+
+**Breathe.** Stay with both sides of the tension. Don't rush to resolve it. Your instinct will be to pick a pole—action or stillness, holding on or letting go. Resist for a moment. Just breathe and notice what it's like to hold both.
+
+**Listen.** What is this tension teaching? What needs are underneath it—yours and others'? Tensions aren't random irritants. They're information about what matters.
+
+**Choose.** Make a conscious choice—including the choice to wait and not choose yet. The goal isn't to escape the tension but to act from awareness rather than reaction.
+
+**Learn.** Afterward, notice: what emerged from holding the tension rather than collapsing it? What's different now?
+
+This sounds tidy on paper. In practice, it's messier. You'll forget to breathe. You'll collapse into one pole and realize it later. You'll identify the wrong thread at first. That's fine. Even struggling with these tensions *is* navigating them.
+
+---
+
+## Why Incompleteness Is the Point
+
+This practice is deliberately simple. Maybe frustratingly so. Where are the detailed instructions? The guaranteed outcomes? The seven-step system that works every time?
+
+They're not here. On purpose.
+
+Every wisdom tradition has its own ways of engaging paradox. The Quakers wait in silence. The Buddhists sit with impermanence. The Jewish tradition argues with God. The Stoics practice negative visualization. Indigenous elders hold space for mystery. None of these are wrong—and none of them are the only way.
+
+The Threads of Becoming offers a shared language, not a replacement for your own tradition's wisdom. Use what resonates. Adapt what doesn't quite fit. Develop your own practices and share what you learn.
+
+Here's what we've found: when people can name the tensions they're holding, and when they can do this *together*—in a family, a team, a community—something changes. The conflict isn't resolved, but it becomes navigable. The disagreement isn't erased, but it becomes more human.
+
+Sometimes the most profound navigation is just staying in the boat together while the waters churn. Sometimes it's simply saying, "I see the tension you're holding, and I'm holding one too." Sometimes it's sitting in silence until the way forward becomes clear—or accepting that clarity won't come today, and that's okay.
 
 ---
 
@@ -152,3 +192,66 @@ These aren't seven separate topics. They're seven lenses on every significant mo
 The framework doesn't tell you what to believe. It offers a place to stand together while believing different things. That's the real gift: not common answers but common questions. Not resolution but the capacity to stay in the room while the tension does its work.
 
 "The shared question as common ground." That's what the Threads of Becoming offers. In a world that keeps trying to sort us into camps with opposing answers, maybe the way forward runs through the questions we all recognize—the ones that have been asked around every fire, in every language, since humans first wondered who they were and who they might become.
+
+---
+
+## Your Turn
+
+Try this: think of a situation that's been pulling at you lately. Something unresolved, something you keep circling back to. Now run through the seven seeds:
+
+- *Who's there?* — What kind of presence is this situation calling for?
+- *May I?* — Whose consent is at stake? Yours? Someone else's?
+- *What happened?* — What stories are you carrying into this?
+- *Why do we wait here?* — Is this a moment for action or patience?
+- *How does my body know?* — What is your body telling you?
+- *What is the mystery unveiling?* — What don't you know yet that might matter?
+- *Who am I now?* — Who are you becoming through this?
+
+You don't need answers to all of them. Just notice which ones light up. Which tensions are you holding without realizing it?
+
+That noticing is the beginning. The rest is practice—imperfect, ongoing, human. 
+
+Welcome to the spiral.
+
+### **Keeping It Explicitly Open**
+
+We are dedicated to allowing this space to grow and change through community involvement, not private ownership.
+
+## **Your Path Begins Here...**
+
+### **[The Current Threads of Becoming](threads.md)**
+
+These are the original seven threads tested in the specific context of a Unitarian Universalist community in South Florida.
+
+### **[A Basic Navigation Framework](navigation.md)**
+
+This basic framework for navigating the threads delivers on the promise in our tagline without overreaching, giving space for cultural and community adaptation.
+
+## **If You Want to Contribute...**
+
+### **[A Primer for Thread Discovery](thread-discovery.md)**
+
+This is a first pass at providing the initial structure for sharing wisdom by identifying universal tensions.
+
+### **[Contributing](CONTRIBUTING.md)**
+
+The Threads of Becoming is a living framework, designed to evolve through practice and collective wisdom in this particular GitHub setting. We invite contributions that:
+
+* Identify new universal tensions/threads
+* Share how different traditions engage these questions
+* Offer practices for embodying these tensions
+* Document applications in communities
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+## **If you're Philosophically Curious...**
+
+### **[About the Threads of Becoming](about.md)**
+
+Why Threads? And how do they work together?
+
+### **[Process Thought: A Universal Primer](process-thought.md)**
+
+This provides the philosophical grounding for the "becoming" promise built into the Threads of Becoming.
