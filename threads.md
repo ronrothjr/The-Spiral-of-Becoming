@@ -8,6 +8,8 @@
 
 **Tensions:** Within vs. Between / Here vs. Elsewhere
 
+**Shadows:**  Intrusion / Abandonment
+
 **The Four-Quadrant Field:**
 - Within + Here = solitary incubation in this moment
 - Within + Elsewhere = gestating something with the distant or the dead
@@ -31,6 +33,8 @@
 **Seed:** "May I?"
 
 **Tensions:** Yes vs. No / Self vs. Other
+
+**Shadows:**  Coercion / Avoidance
 
 **The Four-Quadrant Field:**
 - Self + Yes = I give my consent freely
@@ -56,6 +60,8 @@
 
 **Tensions:** Given vs. Chosen / Telling vs. Told
 
+**Shadows:**  Fixation / Erasure
+
 **The Four-Quadrant Field:**
 - Given + Telling = Ancestral story I tell my way, inheritance carried freely
 - Given + Told = The family story that tells me who I must be
@@ -79,6 +85,8 @@
 **Seed:** "Why do we wait here?"
 
 **Tensions:** Not Yet vs. Now / More vs. Enough
+
+**Shadows:**  Procrastination / Impulsivity
 
 **The Four-Quadrant Field:**
 - Not Yet + Enough = Sacred pause, complete in the waiting, trusting timing
@@ -104,6 +112,8 @@
 
 **Tensions:** Think vs. Feel / Stay vs. Go
 
+**Shadows:**  Dissociation / Flooding
+
 **The Four-Quadrant Field:**
 - Think + Stay = Grounded cognition, embodied reasoning, thought held in flesh
 - Think + Go = Abstraction, escape into mind, leaving the body behind
@@ -128,6 +138,8 @@
 
 **Tensions:** Hide vs. Seek / Threat vs. Wonder
 
+**Shadows:**  Dogmatism / Nihilism
+
 **The Four-Quadrant Field:**
 - Hide + Threat = Dogma, certainty as armor, refusing to look at what we don't know
 - Hide + Wonder = Resting in mystery without grasping, "I don't know" as grounding
@@ -151,6 +163,8 @@
 **Seed:** "Who am I now?"
 
 **Tensions:** Same vs. Different / Return vs. Forward
+
+**Shadows:**  Regression / Bypass
 
 **The Four-Quadrant Field:**
 - Same + Return = Stuck loop, repetition without transformation
